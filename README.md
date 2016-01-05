@@ -1,1 +1,1 @@
-# Recursive-Map-REduce
+# Recursive-Map-Reduce
